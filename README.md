@@ -1,2 +1,2 @@
-# gerador-senha-youtube
+# gerador-senha-randomico 
 Projeto gerador senha 
